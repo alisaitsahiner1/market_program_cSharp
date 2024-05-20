@@ -1,0 +1,203 @@
+INSERT MUSTERİ
+----------------
+CREATE OR REPLACE PROCEDURE public.insert_musteri(IN p_tc character varying, 
+						IN p_adsoyad character varying, 
+						IN p_tel character varying, 
+						IN p_adres character varying, 
+						IN p_email character varying)
+ 	LANGUAGE plpgsql
+	AS $procedure$
+	BEGIN
+    	INSERT INTO musteri (tc, adsoyad, tel, adres, email)
+    	VALUES (p_tc, p_adsoyad, p_tel, p_adres, p_email);
+END;
+$procedure$
+-----------------
+ÜRÜN EKLE
+-----------------
+CREATE OR REPLACE PROCEDURE public.insert_product(IN p_barkodno character varying, 
+						IN p_kategori character varying, 
+						IN p_marka character varying, 
+						IN p_urunadi character varying, 
+						IN p_miktari integer,
+						IN p_alisfiyati double precision,
+ 						IN p_satisfiyati double precision)
+ 	LANGUAGE plpgsql
+	AS $procedure$
+	BEGIN
+    
+    IF EXISTS (SELECT 1 FROM urun WHERE barkodno = p_barkodno) THEN
+        RAISE EXCEPTION 'Bu barkod nosunda bir ürün zaten var.';
+    END IF;
+
+    
+    INSERT INTO urun(barkodno, kategori, marka, urunadi, miktari, alisfiyati, satisfiyati)
+    VALUES(p_barkodno, p_kategori, p_marka, p_urunadi, p_miktari, p_alisfiyati, p_satisfiyati);
+
+    RAISE NOTICE 'Ürün Eklendi';
+END;
+$procedure$
+----------------
+URUN GUNCELLE
+----------------
+CREATE OR REPLACE PROCEDURE public.urun_guncelle(IN p_barkodno character varying, 
+						IN p_miktar integer)
+ 	LANGUAGE plpgsql
+	AS $procedure$
+	BEGIN
+    		UPDATE urun
+    		SET miktari = miktari + p_miktar
+    		WHERE barkodno = p_barkodno;
+	END;
+$procedure$
+-----------------
+ÜRÜN SİL
+----------------
+CREATE OR REPLACE PROCEDURE public.delete_urun(IN p_barkodno character varying)
+ LANGUAGE plpgsql
+AS $procedure$
+BEGIN
+    DELETE FROM urun WHERE barkodno = p_barkodno;
+END;
+$procedure$
+--------------
+ÜRÜN LİSTELE
+--------------
+CREATE OR REPLACE PROCEDURE public.sp_urun_listele()
+ LANGUAGE plpgsql
+AS $procedure$
+BEGIN
+    SELECT * FROM urun;
+END;
+$procedure$
+--------------
+MARKA BİLGİSİ EKLE
+--------------
+CREATE OR REPLACE PROCEDURE public.sp_eklemarkabilgileri(IN p_kategori character varying, 
+							IN p_marka character varying)
+ 	LANGUAGE plpgsql
+	AS $procedure$
+	BEGIN
+    		INSERT INTO markabilgileri(kategori, marka) VALUES (p_kategori, p_marka);
+	END;
+$procedure$
+--------------
+TRİGGER MİKTAR KONTROL
+----------------
+CREATE OR REPLACE FUNCTION miktar_kontrol()
+RETURNS TRIGGER AS $$
+BEGIN
+    IF (SELECT miktari FROM urun WHERE barkodno = NEW.barkodno) - NEW.miktari < 0 THEN
+        RAISE EXCEPTION 'Ürün miktarı yetersiz. Satış gerçekleştirilemez.';
+    END IF;
+    RETURN NEW;
+END;
+$$ LANGUAGE plpgsql;
+
+CREATE TRIGGER trigger_miktar_kontrol
+BEFORE INSERT ON satis
+FOR EACH ROW
+EXECUTE FUNCTION miktar_kontrol();
+-------------------
+TRİGGER TC UZUNLUK KONTROL
+--------------------
+CREATE OR REPLACE FUNCTION tc_uzunluk_kontrol()
+RETURNS TRIGGER AS $$
+BEGIN
+    IF LENGTH(NEW.tc) != 11 THEN
+        RAISE EXCEPTION 'TC Kimlik numarası 11 haneli olmalıdır.';
+    END IF;
+    RETURN NEW;
+END;
+$$ LANGUAGE plpgsql;
+
+CREATE TRIGGER trigger_tc_uzunluk_kontrol
+BEFORE INSERT ON musteri
+FOR EACH ROW
+EXECUTE FUNCTION tc_uzunluk_kontrol();
+----------------------
+
+LİSTELE MÜŞTERİ STORED PROCEDURE
+---------------------
+CREATE OR REPLACE PROCEDURE public.listele_musteri()
+ LANGUAGE plpgsql
+AS $procedure$
+BEGIN
+    SELECT * FROM musteri;
+END;
+$procedure$
+-----------------------
+MÜŞTERİ GÜNCELLE PROCEDURE
+-----------------------
+CREATE OR REPLACE PROCEDURE public.update_musteri(IN p_tc character varying, 
+						IN p_adsoyad character varying,
+						IN p_tel character varying, 
+						IN p_adres character varying, 
+						IN p_email character varying)
+ 	LANGUAGE plpgsql
+	AS $procedure$
+	BEGIN
+    		UPDATE musteri
+    		SET adsoyad = p_adsoyad,
+        	tel = p_tel,
+        	adres = p_adres,
+        	email = p_email
+    	WHERE tc = p_tc;
+	END;
+$procedure$
+-------------------------
+TOPLAM TUTAR GÜNCELLE TRİGGER
+------------------------
+CREATE OR REPLACE FUNCTION public.update_total_amount()
+ RETURNS trigger
+ LANGUAGE plpgsql
+AS $function$ 
+BEGIN 
+	UPDATE sepet SET toplamfiyat = NEW.miktari * NEW.satisfiyati 
+	WHERE sepetid = NEW.sepetid; 
+	RETURN NEW; 
+END; $function$
+---------------------------
+MÜŞTERİ SİL PROCEDURE
+---------------------------
+CREATE OR REPLACE PROCEDURE public.delete_musteri(IN tc_param character varying)
+ LANGUAGE plpgsql
+AS $procedure$
+	BEGIN
+    		DELETE FROM musteri WHERE tc = tc_param;
+	END;
+$procedure$
+-----------------------------
+
+TRİGGER NEGATİF EKLEME KONTROLÜ
+-------------------------------
+CREATE OR REPLACE FUNCTION public.negatif_miktar_kontrol()
+ RETURNS trigger
+ LANGUAGE plpgsql
+AS $function$
+BEGIN
+    IF NEW.miktari < 0 THEN
+        RAISE EXCEPTION 'Ürün miktarı negatif olamaz.';
+    END IF;
+    RETURN NEW;
+END;
+$function$
+------------------------
+UPDATE ÜRÜN
+---------------------
+CREATE OR REPLACE FUNCTION public.update_urun(p_barkodno character varying,
+						 p_kategori character varying,
+						 p_marka character varying)
+ RETURNS void
+ LANGUAGE plpgsql
+AS $function$
+BEGIN
+    UPDATE urun
+    SET 
+        kategori = p_kategori,
+        marka = p_marka,
+        urunadi = p_urunadi
+    WHERE barkodno = p_barkodno;
+END;
+$function$
+

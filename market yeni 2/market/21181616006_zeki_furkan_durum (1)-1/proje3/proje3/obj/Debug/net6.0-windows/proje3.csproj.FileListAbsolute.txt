@@ -1,0 +1,261 @@
+C:\Users\Abra-A7-V12.2\source\repos\proje3\proje3\obj\Debug\net6.0-windows\proje3.csproj.AssemblyReference.cache
+C:\Users\Abra-A7-V12.2\source\repos\proje3\proje3\obj\Debug\net6.0-windows\proje3.Form_satis.resources
+C:\Users\Abra-A7-V12.2\source\repos\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_musteri_ekle.resources
+C:\Users\Abra-A7-V12.2\source\repos\proje3\proje3\obj\Debug\net6.0-windows\proje3.csproj.GenerateResource.cache
+C:\Users\Abra-A7-V12.2\source\repos\proje3\proje3\obj\Debug\net6.0-windows\proje3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abra-A7-V12.2\source\repos\proje3\proje3\obj\Debug\net6.0-windows\proje3.AssemblyInfoInputs.cache
+C:\Users\Abra-A7-V12.2\source\repos\proje3\proje3\obj\Debug\net6.0-windows\proje3.AssemblyInfo.cs
+C:\Users\Abra-A7-V12.2\source\repos\proje3\proje3\obj\Debug\net6.0-windows\proje3.csproj.CoreCompileInputs.cache
+C:\Users\Abra-A7-V12.2\source\repos\proje3\proje3\bin\Debug\net6.0-windows\proje3.exe
+C:\Users\Abra-A7-V12.2\source\repos\proje3\proje3\bin\Debug\net6.0-windows\proje3.deps.json
+C:\Users\Abra-A7-V12.2\source\repos\proje3\proje3\bin\Debug\net6.0-windows\proje3.runtimeconfig.json
+C:\Users\Abra-A7-V12.2\source\repos\proje3\proje3\bin\Debug\net6.0-windows\proje3.dll
+C:\Users\Abra-A7-V12.2\source\repos\proje3\proje3\bin\Debug\net6.0-windows\proje3.pdb
+C:\Users\Abra-A7-V12.2\source\repos\proje3\proje3\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Abra-A7-V12.2\source\repos\proje3\proje3\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Abra-A7-V12.2\source\repos\proje3\proje3\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Abra-A7-V12.2\source\repos\proje3\proje3\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Abra-A7-V12.2\source\repos\proje3\proje3\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Abra-A7-V12.2\source\repos\proje3\proje3\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Abra-A7-V12.2\source\repos\proje3\proje3\obj\Debug\net6.0-windows\proje3.csproj.CopyComplete
+C:\Users\Abra-A7-V12.2\source\repos\proje3\proje3\obj\Debug\net6.0-windows\proje3.dll
+C:\Users\Abra-A7-V12.2\source\repos\proje3\proje3\obj\Debug\net6.0-windows\refint\proje3.dll
+C:\Users\Abra-A7-V12.2\source\repos\proje3\proje3\obj\Debug\net6.0-windows\proje3.pdb
+C:\Users\Abra-A7-V12.2\source\repos\proje3\proje3\obj\Debug\net6.0-windows\proje3.genruntimeconfig.cache
+C:\Users\Abra-A7-V12.2\source\repos\proje3\proje3\obj\Debug\net6.0-windows\ref\proje3.dll
+C:\Users\Abra-A7-V12.2\source\repos\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_musteri_listele.resources
+C:\Users\Abra-A7-V12.2\source\repos\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_kategori.resources
+C:\Users\Abra-A7-V12.2\source\repos\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_marka.resources
+C:\Users\Abra-A7-V12.2\source\repos\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_urun_ekle.resources
+C:\Users\Abra-A7-V12.2\source\repos\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_Urun_listeleme.resources
+C:\Users\Abra-A7-V12.2\source\repos\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_satis_listele.resources
+C:\Users\Abra-A7-V12.2\source\repos\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_ana_sayfa.resources
+C:\Users\Abra-A7-V12.2\Desktop\proje3\proje3\bin\Debug\net6.0-windows\proje3.exe
+C:\Users\Abra-A7-V12.2\Desktop\proje3\proje3\bin\Debug\net6.0-windows\proje3.deps.json
+C:\Users\Abra-A7-V12.2\Desktop\proje3\proje3\bin\Debug\net6.0-windows\proje3.runtimeconfig.json
+C:\Users\Abra-A7-V12.2\Desktop\proje3\proje3\bin\Debug\net6.0-windows\proje3.dll
+C:\Users\Abra-A7-V12.2\Desktop\proje3\proje3\bin\Debug\net6.0-windows\proje3.pdb
+C:\Users\Abra-A7-V12.2\Desktop\proje3\proje3\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Abra-A7-V12.2\Desktop\proje3\proje3\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Abra-A7-V12.2\Desktop\proje3\proje3\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Abra-A7-V12.2\Desktop\proje3\proje3\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Abra-A7-V12.2\Desktop\proje3\proje3\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Abra-A7-V12.2\Desktop\proje3\proje3\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Abra-A7-V12.2\Desktop\proje3\proje3\obj\Debug\net6.0-windows\proje3.csproj.AssemblyReference.cache
+C:\Users\Abra-A7-V12.2\Desktop\proje3\proje3\obj\Debug\net6.0-windows\proje3.Form_satis.resources
+C:\Users\Abra-A7-V12.2\Desktop\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_ana_sayfa.resources
+C:\Users\Abra-A7-V12.2\Desktop\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_kategori.resources
+C:\Users\Abra-A7-V12.2\Desktop\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_marka.resources
+C:\Users\Abra-A7-V12.2\Desktop\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_musteri_ekle.resources
+C:\Users\Abra-A7-V12.2\Desktop\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_musteri_listele.resources
+C:\Users\Abra-A7-V12.2\Desktop\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_satis_listele.resources
+C:\Users\Abra-A7-V12.2\Desktop\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_urun_ekle.resources
+C:\Users\Abra-A7-V12.2\Desktop\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_Urun_listeleme.resources
+C:\Users\Abra-A7-V12.2\Desktop\proje3\proje3\obj\Debug\net6.0-windows\proje3.csproj.GenerateResource.cache
+C:\Users\Abra-A7-V12.2\Desktop\proje3\proje3\obj\Debug\net6.0-windows\proje3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abra-A7-V12.2\Desktop\proje3\proje3\obj\Debug\net6.0-windows\proje3.AssemblyInfoInputs.cache
+C:\Users\Abra-A7-V12.2\Desktop\proje3\proje3\obj\Debug\net6.0-windows\proje3.AssemblyInfo.cs
+C:\Users\Abra-A7-V12.2\Desktop\proje3\proje3\obj\Debug\net6.0-windows\proje3.csproj.CoreCompileInputs.cache
+C:\Users\Abra-A7-V12.2\Desktop\proje3\proje3\obj\Debug\net6.0-windows\proje3.csproj.CopyComplete
+C:\Users\Abra-A7-V12.2\Desktop\proje3\proje3\obj\Debug\net6.0-windows\proje3.dll
+C:\Users\Abra-A7-V12.2\Desktop\proje3\proje3\obj\Debug\net6.0-windows\refint\proje3.dll
+C:\Users\Abra-A7-V12.2\Desktop\proje3\proje3\obj\Debug\net6.0-windows\proje3.pdb
+C:\Users\Abra-A7-V12.2\Desktop\proje3\proje3\obj\Debug\net6.0-windows\proje3.genruntimeconfig.cache
+C:\Users\Abra-A7-V12.2\Desktop\proje3\proje3\obj\Debug\net6.0-windows\ref\proje3.dll
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\21181616006_zeki_furkan_durum (1)-1\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\proje3.exe
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\21181616006_zeki_furkan_durum (1)-1\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\proje3.deps.json
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\21181616006_zeki_furkan_durum (1)-1\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\proje3.runtimeconfig.json
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\21181616006_zeki_furkan_durum (1)-1\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\proje3.dll
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\21181616006_zeki_furkan_durum (1)-1\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\proje3.pdb
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\21181616006_zeki_furkan_durum (1)-1\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\21181616006_zeki_furkan_durum (1)-1\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\21181616006_zeki_furkan_durum (1)-1\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\21181616006_zeki_furkan_durum (1)-1\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\21181616006_zeki_furkan_durum (1)-1\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\21181616006_zeki_furkan_durum (1)-1\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\21181616006_zeki_furkan_durum (1)-1\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.csproj.AssemblyReference.cache
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\21181616006_zeki_furkan_durum (1)-1\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.Form_satis.resources
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\21181616006_zeki_furkan_durum (1)-1\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_ana_sayfa.resources
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\21181616006_zeki_furkan_durum (1)-1\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_kategori.resources
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\21181616006_zeki_furkan_durum (1)-1\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_marka.resources
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\21181616006_zeki_furkan_durum (1)-1\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_musteri_ekle.resources
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\21181616006_zeki_furkan_durum (1)-1\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_musteri_listele.resources
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\21181616006_zeki_furkan_durum (1)-1\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_satis_listele.resources
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\21181616006_zeki_furkan_durum (1)-1\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_urun_ekle.resources
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\21181616006_zeki_furkan_durum (1)-1\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_Urun_listeleme.resources
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\21181616006_zeki_furkan_durum (1)-1\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.csproj.GenerateResource.cache
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\21181616006_zeki_furkan_durum (1)-1\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\21181616006_zeki_furkan_durum (1)-1\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.AssemblyInfoInputs.cache
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\21181616006_zeki_furkan_durum (1)-1\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.AssemblyInfo.cs
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\21181616006_zeki_furkan_durum (1)-1\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.csproj.CoreCompileInputs.cache
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\21181616006_zeki_furkan_durum (1)-1\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.csproj.CopyComplete
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\21181616006_zeki_furkan_durum (1)-1\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.dll
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\21181616006_zeki_furkan_durum (1)-1\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\refint\proje3.dll
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\21181616006_zeki_furkan_durum (1)-1\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.pdb
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\21181616006_zeki_furkan_durum (1)-1\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.genruntimeconfig.cache
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\21181616006_zeki_furkan_durum (1)-1\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\ref\proje3.dll
+C:\Users\alisa\OneDrive\Masaüstü\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\proje3.exe
+C:\Users\alisa\OneDrive\Masaüstü\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\proje3.deps.json
+C:\Users\alisa\OneDrive\Masaüstü\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\proje3.runtimeconfig.json
+C:\Users\alisa\OneDrive\Masaüstü\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\proje3.dll
+C:\Users\alisa\OneDrive\Masaüstü\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\proje3.pdb
+C:\Users\alisa\OneDrive\Masaüstü\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\alisa\OneDrive\Masaüstü\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\alisa\OneDrive\Masaüstü\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\alisa\OneDrive\Masaüstü\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\alisa\OneDrive\Masaüstü\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alisa\OneDrive\Masaüstü\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alisa\OneDrive\Masaüstü\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.csproj.AssemblyReference.cache
+C:\Users\alisa\OneDrive\Masaüstü\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.Form_satis.resources
+C:\Users\alisa\OneDrive\Masaüstü\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_ana_sayfa.resources
+C:\Users\alisa\OneDrive\Masaüstü\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_kategori.resources
+C:\Users\alisa\OneDrive\Masaüstü\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_marka.resources
+C:\Users\alisa\OneDrive\Masaüstü\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_musteri_ekle.resources
+C:\Users\alisa\OneDrive\Masaüstü\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_musteri_listele.resources
+C:\Users\alisa\OneDrive\Masaüstü\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_satis_listele.resources
+C:\Users\alisa\OneDrive\Masaüstü\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_urun_ekle.resources
+C:\Users\alisa\OneDrive\Masaüstü\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_Urun_listeleme.resources
+C:\Users\alisa\OneDrive\Masaüstü\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.csproj.GenerateResource.cache
+C:\Users\alisa\OneDrive\Masaüstü\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alisa\OneDrive\Masaüstü\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.AssemblyInfoInputs.cache
+C:\Users\alisa\OneDrive\Masaüstü\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.AssemblyInfo.cs
+C:\Users\alisa\OneDrive\Masaüstü\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.csproj.CoreCompileInputs.cache
+C:\Users\alisa\OneDrive\Masaüstü\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.csproj.CopyComplete
+C:\Users\alisa\OneDrive\Masaüstü\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.dll
+C:\Users\alisa\OneDrive\Masaüstü\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\refint\proje3.dll
+C:\Users\alisa\OneDrive\Masaüstü\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.pdb
+C:\Users\alisa\OneDrive\Masaüstü\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.genruntimeconfig.cache
+C:\Users\alisa\OneDrive\Masaüstü\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\ref\proje3.dll
+C:\Users\alisa\OneDrive\Masaüstü\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\alisa\OneDrive\Masaüstü\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\alisa\OneDrive\Masaüstü\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\alisa\OneDrive\Masaüstü\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alisa\OneDrive\Masaüstü\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\alisa\OneDrive\Masaüstü\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\alisa\OneDrive\Masaüstü\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\proje3.exe
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\proje3.deps.json
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\proje3.runtimeconfig.json
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\proje3.dll
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\proje3.pdb
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.csproj.AssemblyReference.cache
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.Form_satis.resources
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_ana_sayfa.resources
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_kategori.resources
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_marka.resources
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_musteri_ekle.resources
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_musteri_listele.resources
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_satis_listele.resources
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_urun_ekle.resources
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_Urun_listeleme.resources
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.csproj.GenerateResource.cache
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.AssemblyInfoInputs.cache
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.AssemblyInfo.cs
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.csproj.CoreCompileInputs.cache
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.csproj.CopyComplete
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.dll
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\refint\proje3.dll
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.pdb
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.genruntimeconfig.cache
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\ref\proje3.dll
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_admin_listele.resources
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_login.resources
+C:\Users\alisa\OneDrive\Masaüstü\Format Yedekleme\Downloads\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_musteri_listele_giris.resources
+C:\Users\alisa\OneDrive\Masaüstü\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\proje3.exe
+C:\Users\alisa\OneDrive\Masaüstü\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\proje3.deps.json
+C:\Users\alisa\OneDrive\Masaüstü\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\proje3.runtimeconfig.json
+C:\Users\alisa\OneDrive\Masaüstü\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\proje3.dll
+C:\Users\alisa\OneDrive\Masaüstü\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\proje3.pdb
+C:\Users\alisa\OneDrive\Masaüstü\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\alisa\OneDrive\Masaüstü\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\alisa\OneDrive\Masaüstü\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\alisa\OneDrive\Masaüstü\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\alisa\OneDrive\Masaüstü\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alisa\OneDrive\Masaüstü\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\alisa\OneDrive\Masaüstü\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\alisa\OneDrive\Masaüstü\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\alisa\OneDrive\Masaüstü\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\alisa\OneDrive\Masaüstü\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\alisa\OneDrive\Masaüstü\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alisa\OneDrive\Masaüstü\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alisa\OneDrive\Masaüstü\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\alisa\OneDrive\Masaüstü\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.csproj.AssemblyReference.cache
+C:\Users\alisa\OneDrive\Masaüstü\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.Form_satis.resources
+C:\Users\alisa\OneDrive\Masaüstü\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_admin_listele.resources
+C:\Users\alisa\OneDrive\Masaüstü\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_ana_sayfa.resources
+C:\Users\alisa\OneDrive\Masaüstü\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_kategori.resources
+C:\Users\alisa\OneDrive\Masaüstü\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_login.resources
+C:\Users\alisa\OneDrive\Masaüstü\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_marka.resources
+C:\Users\alisa\OneDrive\Masaüstü\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_musteri_ekle.resources
+C:\Users\alisa\OneDrive\Masaüstü\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_musteri_listele.resources
+C:\Users\alisa\OneDrive\Masaüstü\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_musteri_listele_giris.resources
+C:\Users\alisa\OneDrive\Masaüstü\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_satis_listele.resources
+C:\Users\alisa\OneDrive\Masaüstü\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_urun_ekle.resources
+C:\Users\alisa\OneDrive\Masaüstü\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_Urun_listeleme.resources
+C:\Users\alisa\OneDrive\Masaüstü\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.csproj.GenerateResource.cache
+C:\Users\alisa\OneDrive\Masaüstü\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alisa\OneDrive\Masaüstü\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.AssemblyInfoInputs.cache
+C:\Users\alisa\OneDrive\Masaüstü\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.AssemblyInfo.cs
+C:\Users\alisa\OneDrive\Masaüstü\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.csproj.CoreCompileInputs.cache
+C:\Users\alisa\OneDrive\Masaüstü\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.csproj.CopyComplete
+C:\Users\alisa\OneDrive\Masaüstü\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.dll
+C:\Users\alisa\OneDrive\Masaüstü\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\refint\proje3.dll
+C:\Users\alisa\OneDrive\Masaüstü\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.pdb
+C:\Users\alisa\OneDrive\Masaüstü\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.genruntimeconfig.cache
+C:\Users\alisa\OneDrive\Masaüstü\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\ref\proje3.dll
+C:\Users\alisa\Desktop\Format Yedekleme\Downloads\Okul\3. Sınıf 1. Dönem\Veri Tabanı\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\proje3.exe
+C:\Users\alisa\Desktop\Format Yedekleme\Downloads\Okul\3. Sınıf 1. Dönem\Veri Tabanı\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\proje3.deps.json
+C:\Users\alisa\Desktop\Format Yedekleme\Downloads\Okul\3. Sınıf 1. Dönem\Veri Tabanı\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\proje3.runtimeconfig.json
+C:\Users\alisa\Desktop\Format Yedekleme\Downloads\Okul\3. Sınıf 1. Dönem\Veri Tabanı\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\proje3.dll
+C:\Users\alisa\Desktop\Format Yedekleme\Downloads\Okul\3. Sınıf 1. Dönem\Veri Tabanı\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\proje3.pdb
+C:\Users\alisa\Desktop\Format Yedekleme\Downloads\Okul\3. Sınıf 1. Dönem\Veri Tabanı\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\alisa\Desktop\Format Yedekleme\Downloads\Okul\3. Sınıf 1. Dönem\Veri Tabanı\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\alisa\Desktop\Format Yedekleme\Downloads\Okul\3. Sınıf 1. Dönem\Veri Tabanı\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\alisa\Desktop\Format Yedekleme\Downloads\Okul\3. Sınıf 1. Dönem\Veri Tabanı\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\alisa\Desktop\Format Yedekleme\Downloads\Okul\3. Sınıf 1. Dönem\Veri Tabanı\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alisa\Desktop\Format Yedekleme\Downloads\Okul\3. Sınıf 1. Dönem\Veri Tabanı\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\alisa\Desktop\Format Yedekleme\Downloads\Okul\3. Sınıf 1. Dönem\Veri Tabanı\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\alisa\Desktop\Format Yedekleme\Downloads\Okul\3. Sınıf 1. Dönem\Veri Tabanı\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\alisa\Desktop\Format Yedekleme\Downloads\Okul\3. Sınıf 1. Dönem\Veri Tabanı\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\alisa\Desktop\Format Yedekleme\Downloads\Okul\3. Sınıf 1. Dönem\Veri Tabanı\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\alisa\Desktop\Format Yedekleme\Downloads\Okul\3. Sınıf 1. Dönem\Veri Tabanı\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alisa\Desktop\Format Yedekleme\Downloads\Okul\3. Sınıf 1. Dönem\Veri Tabanı\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alisa\Desktop\Format Yedekleme\Downloads\Okul\3. Sınıf 1. Dönem\Veri Tabanı\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\alisa\Desktop\Format Yedekleme\Downloads\Okul\3. Sınıf 1. Dönem\Veri Tabanı\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.csproj.AssemblyReference.cache
+C:\Users\alisa\Desktop\Format Yedekleme\Downloads\Okul\3. Sınıf 1. Dönem\Veri Tabanı\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.Form_satis.resources
+C:\Users\alisa\Desktop\Format Yedekleme\Downloads\Okul\3. Sınıf 1. Dönem\Veri Tabanı\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_admin_listele.resources
+C:\Users\alisa\Desktop\Format Yedekleme\Downloads\Okul\3. Sınıf 1. Dönem\Veri Tabanı\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_ana_sayfa.resources
+C:\Users\alisa\Desktop\Format Yedekleme\Downloads\Okul\3. Sınıf 1. Dönem\Veri Tabanı\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_kategori.resources
+C:\Users\alisa\Desktop\Format Yedekleme\Downloads\Okul\3. Sınıf 1. Dönem\Veri Tabanı\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_login.resources
+C:\Users\alisa\Desktop\Format Yedekleme\Downloads\Okul\3. Sınıf 1. Dönem\Veri Tabanı\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_marka.resources
+C:\Users\alisa\Desktop\Format Yedekleme\Downloads\Okul\3. Sınıf 1. Dönem\Veri Tabanı\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_musteri_ekle.resources
+C:\Users\alisa\Desktop\Format Yedekleme\Downloads\Okul\3. Sınıf 1. Dönem\Veri Tabanı\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_musteri_listele.resources
+C:\Users\alisa\Desktop\Format Yedekleme\Downloads\Okul\3. Sınıf 1. Dönem\Veri Tabanı\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_musteri_listele_giris.resources
+C:\Users\alisa\Desktop\Format Yedekleme\Downloads\Okul\3. Sınıf 1. Dönem\Veri Tabanı\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_satis_listele.resources
+C:\Users\alisa\Desktop\Format Yedekleme\Downloads\Okul\3. Sınıf 1. Dönem\Veri Tabanı\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_urun_ekle.resources
+C:\Users\alisa\Desktop\Format Yedekleme\Downloads\Okul\3. Sınıf 1. Dönem\Veri Tabanı\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.frm_Urun_listeleme.resources
+C:\Users\alisa\Desktop\Format Yedekleme\Downloads\Okul\3. Sınıf 1. Dönem\Veri Tabanı\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.csproj.GenerateResource.cache
+C:\Users\alisa\Desktop\Format Yedekleme\Downloads\Okul\3. Sınıf 1. Dönem\Veri Tabanı\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alisa\Desktop\Format Yedekleme\Downloads\Okul\3. Sınıf 1. Dönem\Veri Tabanı\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.AssemblyInfoInputs.cache
+C:\Users\alisa\Desktop\Format Yedekleme\Downloads\Okul\3. Sınıf 1. Dönem\Veri Tabanı\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.AssemblyInfo.cs
+C:\Users\alisa\Desktop\Format Yedekleme\Downloads\Okul\3. Sınıf 1. Dönem\Veri Tabanı\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.csproj.CoreCompileInputs.cache
+C:\Users\alisa\Desktop\Format Yedekleme\Downloads\Okul\3. Sınıf 1. Dönem\Veri Tabanı\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.csproj.Up2Date
+C:\Users\alisa\Desktop\Format Yedekleme\Downloads\Okul\3. Sınıf 1. Dönem\Veri Tabanı\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.dll
+C:\Users\alisa\Desktop\Format Yedekleme\Downloads\Okul\3. Sınıf 1. Dönem\Veri Tabanı\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\refint\proje3.dll
+C:\Users\alisa\Desktop\Format Yedekleme\Downloads\Okul\3. Sınıf 1. Dönem\Veri Tabanı\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.pdb
+C:\Users\alisa\Desktop\Format Yedekleme\Downloads\Okul\3. Sınıf 1. Dönem\Veri Tabanı\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\proje3.genruntimeconfig.cache
+C:\Users\alisa\Desktop\Format Yedekleme\Downloads\Okul\3. Sınıf 1. Dönem\Veri Tabanı\market yeni 2\market\21181616006_zeki_furkan_durum (1)-1\proje3\proje3\obj\Debug\net6.0-windows\ref\proje3.dll
